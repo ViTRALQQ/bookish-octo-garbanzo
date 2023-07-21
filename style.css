@@ -1,0 +1,823 @@
+.group-child {
+  background-color: var(--dark-grey);
+}
+.group-child,
+.inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 742px;
+}
+.b {
+  position: relative;
+  line-height: 120%;
+}
+.sitio-do-escampadinho {
+  position: relative;
+  font-size: var(--font-size);
+}
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.icon {
+  position: relative;
+  width: 454px;
+  height: 253px;
+  object-fit: cover;
+}
+.frame-parent {
+  position: absolute;
+  top: 188px;
+  left: 810px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--bold-size);
+}
+.div1 {
+  text-transform: uppercase;
+  font-weight: 300;
+}
+.div1,
+.infoautodromodoalgarvecom {
+  position: relative;
+}
+.frame-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size);
+}
+.div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ticketsautodromodoalgarvecom {
+  position: absolute;
+  top: 29px;
+  left: 0;
+}
+.group-div {
+  position: relative;
+  width: 211px;
+  height: 47px;
+  font-size: var(--font-size);
+}
+.frame-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  font-size: var(--bold-size);
+}
+.facebook-icon,
+.inst-icon,
+.youtube-icon {
+  position: relative;
+  width: 44px;
+  height: 31px;
+}
+.facebook-icon,
+.inst-icon {
+  width: 31px;
+}
+.facebook-icon {
+  width: 30px;
+  height: 30px;
+}
+.div5,
+.group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-xl);
+}
+.group {
+  position: absolute;
+  top: 100px;
+  left: 352px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  font-size: var(--h1-size);
+}
+.design-by-varvara,
+.div6 {
+  position: absolute;
+  top: 625px;
+  left: 1050px;
+  line-height: 120%;
+}
+.design-by-varvara {
+  left: 352px;
+}
+.logo-icon {
+  position: absolute;
+  height: 8.89%;
+  width: 3.62%;
+  top: 81.54%;
+  right: 48.19%;
+  bottom: 9.57%;
+  left: 48.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div {
+  top: 6085px;
+  left: 0;
+  width: 1600px;
+  height: 742px;
+  color: var(--color);
+}
+.am,
+.b3,
+.child,
+.div {
+  position: absolute;
+}
+.child {
+  top: -4px;
+  left: 476.34px;
+  width: 438px;
+  height: 286px;
+  object-fit: cover;
+}
+.am,
+.b3 {
+  top: 17px;
+  left: 0;
+  line-height: 120%;
+}
+.am {
+  top: 0;
+  font-size: var(--font1-size);
+  color: var(--gold);
+}
+.am1,
+.parent2 {
+  position: relative;
+}
+.parent2 {
+  width: 129px;
+  height: 34px;
+}
+.am1 {
+  line-height: 120%;
+  display: inline-block;
+  width: 434px;
+}
+.group-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.parent3 {
+  position: relative;
+  width: 152px;
+  height: 34px;
+}
+.p {
+  margin: 0;
+}
+.am-container {
+  position: relative;
+  line-height: 120%;
+  display: -webkit-inline-box;
+  white-space: pre-wrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  width: 434px;
+}
+.frame-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.div7,
+.item {
+  position: absolute;
+  top: 5713px;
+  left: 356px;
+  width: 892px;
+  height: 272px;
+}
+.item {
+  top: 118px;
+  left: 458px;
+  width: 437px;
+  height: 250px;
+  object-fit: cover;
+}
+.div9,
+.rectangle-icon {
+  position: absolute;
+  left: 1px;
+}
+.rectangle-icon {
+  top: 118px;
+  width: 437px;
+  height: 250px;
+  object-fit: cover;
+}
+.div9 {
+  top: 0;
+  font-size: var(--h1-size);
+  text-transform: uppercase;
+  font-weight: 300;
+}
+.child1,
+.polygon-icon {
+  position: absolute;
+  top: 68px;
+  left: 409.01px;
+  width: 30px;
+  height: 30px;
+}
+.child1 {
+  left: 460.01px;
+}
+.arrow-icon,
+.child2 {
+  position: absolute;
+  top: 79.32px;
+  left: 468px;
+  width: 10.5px;
+  height: 7.36px;
+}
+.child2 {
+  left: 416.5px;
+}
+.div10,
+.div11 {
+  position: relative;
+}
+.div10 {
+  text-transform: uppercase;
+  display: inline-block;
+  width: 196px;
+  height: 46px;
+  flex-shrink: 0;
+}
+.div11 {
+  font-size: var(--font1-size);
+  line-height: 120%;
+  color: var(--dark-grey);
+}
+.parent4 {
+  position: absolute;
+  top: 388px;
+  left: 458px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.ansa-motorsports,
+.div12 {
+  position: relative;
+  width: 435px;
+}
+.div12 {
+  text-transform: uppercase;
+  display: inline-block;
+}
+.ansa-motorsports {
+  font-size: var(--bold-14-size);
+  line-height: 120%;
+  display: -webkit-inline-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}
+.parent5 {
+  top: 388px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.child3,
+.div8,
+.parent5 {
+  position: absolute;
+}
+.div8 {
+  top: 5058px;
+  left: 352px;
+  width: 895px;
+  height: 555px;
+  font-size: var(--h2-size);
+}
+.child3 {
+  top: 0;
+  left: -4px;
+  width: 908px;
+  height: 266px;
+  object-fit: cover;
+}
+.arcticonsyoutube-studio {
+  position: absolute;
+  top: 104px;
+  left: 420px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.div14,
+.div15 {
+  position: absolute;
+}
+.div15 {
+  top: 154px;
+  left: 395px;
+  line-height: 120%;
+  display: inline-block;
+  width: 100.99px;
+  height: 19.76px;
+}
+.div14 {
+  top: 4700px;
+  left: 355px;
+  width: 900px;
+  height: 258px;
+  color: var(--color);
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--dark-grey);
+  width: 1920px;
+  height: 871px;
+}
+.group-icon {
+  position: absolute;
+  top: 314.54px;
+  left: 200px;
+  width: 760px;
+  height: 791.92px;
+}
+.kindpng-3621788-icon {
+  position: absolute;
+  top: 515px;
+  left: 437px;
+  width: 725px;
+  height: 214px;
+  object-fit: cover;
+}
+.div17 {
+  position: absolute;
+  top: 100px;
+  left: 352px;
+  font-size: var(--h1-size);
+  text-transform: uppercase;
+  font-weight: 300;
+}
+.huracn-super-trofeo {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  width: 437px;
+}
+.huracn-super-trofeo-evo-parent {
+  position: absolute;
+  top: 100px;
+  left: 810px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.huracn,
+.lamborghini-huracan-super {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  width: 285px;
+}
+.lamborghini-huracan-super {
+  width: 590px;
+}
+.huracn-parent {
+  position: absolute;
+  top: 997px;
+  left: 352px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  color: var(--black);
+}
+.group-item {
+  position: absolute;
+  top: -4px;
+  left: 14.7px;
+  width: 324px;
+  height: 311px;
+}
+.kindpng-3621809-icon {
+  position: absolute;
+  top: 74px;
+  left: 62.18px;
+  width: 199.64px;
+  height: 148.86px;
+  object-fit: cover;
+}
+.polygon-parent {
+  position: absolute;
+  top: 997px;
+  left: 943px;
+  width: 324px;
+  height: 297px;
+}
+.nicepng-lamborghini-logo-png-8-icon {
+  position: absolute;
+  top: 929px;
+  left: 727px;
+  width: 257px;
+  height: 94px;
+  object-fit: cover;
+}
+.div16,
+.parent6 {
+  position: absolute;
+}
+.parent6 {
+  top: 787px;
+  left: 352px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 65px;
+}
+.div16 {
+  top: 3305px;
+  left: 0;
+  width: 1600px;
+  height: 1295px;
+  color: var(--color);
+}
+.gran-final-01-1-icon {
+  position: absolute;
+  top: 0;
+  left: 127px;
+  width: 1920px;
+  height: 890px;
+  object-fit: cover;
+}
+.autodromo-internacional-do {
+  position: relative;
+  font-size: var(--bold-14-size);
+  line-height: 120%;
+  display: inline-block;
+  width: 434px;
+}
+.parent7 {
+  top: 47px;
+  left: 479px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.child4,
+.div23,
+.parent7 {
+  position: absolute;
+}
+.child4 {
+  height: 38.7%;
+  width: 39.42%;
+  top: 52.14%;
+  right: 28.09%;
+  bottom: 9.16%;
+  left: 32.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div23 {
+  top: 2415px;
+  left: -127px;
+  width: 1922.16px;
+  height: 890px;
+  font-size: var(--h1-size);
+}
+.gt,
+.super-trofeo-europe {
+  position: relative;
+  display: inline-block;
+}
+.super-trofeo-europe {
+  text-transform: uppercase;
+  font-weight: 300;
+  width: 415px;
+}
+.gt {
+  font-size: var(--bold-14-size);
+  line-height: 120%;
+  width: 377px;
+}
+.frame-parent1,
+.super-trofeo-europe-2022-parent {
+  position: absolute;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.super-trofeo-europe-2022-parent {
+  left: 0;
+  width: 438px;
+  flex-direction: column;
+  gap: var(--gap-11xl);
+}
+.frame-parent1 {
+  left: 458px;
+  border-top: 1px solid var(--black);
+  border-bottom: 1px solid var(--black);
+  flex-direction: row;
+  padding: 20px 0;
+  gap: var(--gap-xl);
+  font-size: var(--bold-14-size);
+}
+.div25,
+.div48 {
+  font-size: var(--h1-size);
+}
+.div25 {
+  position: absolute;
+  top: 2036px;
+  left: 352px;
+  width: 907px;
+  height: 279px;
+}
+.div48 {
+  align-self: stretch;
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+.lamborghini-super-trofeo {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  width: 352px;
+}
+.child5 {
+  top: -4px;
+  left: 458px;
+  width: 437px;
+  height: 316px;
+}
+.child5,
+.div47,
+.div50 {
+  position: absolute;
+}
+.div47 {
+  top: 1634px;
+  left: 352px;
+  width: 895px;
+  height: 336px;
+}
+.div50 {
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+.b5,
+.lamborghini2 {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+.lamborghini2 {
+  width: 439px;
+  flex-shrink: 0;
+}
+.b5 {
+  width: 438px;
+}
+.lamborghini-parent,
+.wrapper {
+  width: 438px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lamborghini-parent {
+  width: 894px;
+  flex-direction: row;
+  gap: var(--gap-xl);
+}
+.portimao-cover-1-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 413px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-parent2 {
+  top: 72px;
+  left: 2px;
+  width: 893px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-11xl);
+  font-size: var(--bold-14-size);
+}
+.child6,
+.div49,
+.frame-parent2 {
+  position: absolute;
+}
+.div49 {
+  top: 900px;
+  left: 352px;
+  width: 895px;
+  height: 634px;
+  font-size: var(--h1-size);
+}
+.child6 {
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 800px;
+  object-fit: cover;
+}
+.lamborghini-super-trofeo1 {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 895px;
+  height: 80px;
+  flex-shrink: 0;
+}
+.div52,
+.div53 {
+  position: relative;
+}
+.div52 {
+  font-size: var(--ho-1-size);
+  display: inline-block;
+  width: 386px;
+}
+.div53 {
+  font-size: var(--ho2-size);
+  line-height: 33.98px;
+  color: var(--gold);
+  text-align: center;
+}
+.frame-child {
+  position: relative;
+  border-top: 0.8px solid var(--black);
+  box-sizing: border-box;
+  width: 386.8px;
+  height: 0.8px;
+}
+.div54 {
+  position: relative;
+  font-size: var(--font-size);
+  font-family: var(--font);
+  color: var(--dark-grey);
+  text-align: right;
+}
+.lamborghini-super-trofeo-parent {
+  position: absolute;
+  top: 98px;
+  left: 347px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 5px;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: 76px;
+  color: var(--black);
+  font-family: var(--ho2);
+}
+.child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #d8d4ca, rgba(217, 217, 217, 0));
+  width: 1599px;
+  height: 87px;
+}
+.logo-icon1 {
+  position: absolute;
+  height: 12.96%;
+  width: 5.69%;
+  top: 3.15%;
+  right: 47.44%;
+  bottom: 83.88%;
+  left: 46.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.parent12,
+.parent13 {
+  position: absolute;
+  top: 50px;
+  left: 225px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-21xl);
+}
+.parent13 {
+  left: 962px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.child8,
+.div51 {
+  position: absolute;
+  top: 740px;
+  left: 786px;
+  width: 30px;
+  height: 30px;
+}
+.div51 {
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 800px;
+  text-align: right;
+  font-size: var(--font-size);
+  color: var(--dark-grey);
+}
+.desktop-child,
+.desktop-inner,
+.desktop-item {
+  position: absolute;
+  top: 3225px;
+  left: 752px;
+  background-color: var(--color-gainsboro);
+  width: 496px;
+  height: 26px;
+}
+.desktop-inner,
+.desktop-item {
+  top: 3222px;
+  left: 352px;
+  width: 400px;
+  height: 43px;
+}
+.desktop-inner {
+  top: 3429px;
+  left: 752px;
+  width: 58px;
+  height: 40px;
+}
+.desktop {
+  position: relative;
+  background-color: var(--color);
+  width: 100%;
+  height: 6827px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--bold-14-size);
+  color: var(--black);
+  font-family: var(--font);
+}
